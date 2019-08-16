@@ -4,5 +4,5 @@ def reverse_each_word(string)
   og.array.each do |string|
     return_array << string.reverse
   end
-   return_array
+   return_array.join
 end
