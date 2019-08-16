@@ -1,4 +1,4 @@
 def reverse_each_word(string)
-  og_array = []
+  og_array = string
   
 end
